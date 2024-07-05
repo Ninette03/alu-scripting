@@ -1,11 +1,11 @@
 #!/usr/bin/python3
-"""
-get top 10 hot posts function
-"""
+"""get subscribers numbers function"""
+
 
 import json
 import requests
 import sys
+
 
 def number_of_subscribers(subreddit):
     """get all subscribers"""
